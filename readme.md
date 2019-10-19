@@ -1,2 +1,2 @@
 Hello World!
- for python
+ this is my first python program
